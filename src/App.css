@@ -1,5 +1,8 @@
 .App {
-  text-align: center;
+ /*  text-align: center; */
+  margin-left: 10%;
+  margin-right: 10%;
+
 }
 
 .App-logo {
@@ -35,4 +38,19 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.Text {
+  display: flex;
+  flex: 1;
+}
+.Title{
+  text-align: center;
+  font-weight: bold;
+  font-size:xx-large;
+}
+
+.Subtitle{
+  font-weight: bold;
+  font-size: large;
 }
