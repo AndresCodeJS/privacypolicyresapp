@@ -43,6 +43,9 @@ function App() {
           unauthorized use, unauthorized access, disclosure, destruction, or
           modification.
         </p>
+        <p className="Text">
+          For more information, contact: andres2661991@gmail.com
+        </p>
 
       </div>
     </div>
